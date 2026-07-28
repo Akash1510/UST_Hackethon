@@ -28,7 +28,7 @@ const NavBar = () => {
               alt="AgriPredict Logo"
               className="h-10 w-10 rounded-full object-cover border-2 border-green-600"
             />
-            <span className="text-2xl font-bold text-green-600">AgriPredict</span>
+            <span className="text-2xl font-bold text-green-600">AgroAI</span>
           </Link>
 
           {/* Hamburger Icon for Mobile */}
@@ -88,6 +88,14 @@ const NavBar = () => {
                 className="bg-green-600 text-white px-4 py-2 rounded hover:bg-green-700 transition duration-300 ease-in-out"
               >
                 Download App
+              </Link>
+            </li>
+            <li>
+              <Link
+                to="/login"
+                className="bg-green-600 text-white px-4 py-2 rounded hover:bg-green-700 transition duration-300 ease-in-out"
+              >
+                 LoginToAgronomist
               </Link>
             </li>
           </ul>

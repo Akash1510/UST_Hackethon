@@ -12,7 +12,7 @@ const FooterComponent = () => {
                         alt="AgrioPredict Logo" 
                         className="w-12 h-12 mr-3 animate-bounce" 
                     />
-                    <h3 className="text-3xl font-semibold text-white">AgriPredict</h3>
+                    <h3 className="text-3xl font-semibold text-white">AgroAI</h3>
                 </div>
 
                 {/* Contact Info */}
@@ -48,7 +48,7 @@ const FooterComponent = () => {
                 </div>
 
                 {/* Copyright */}
-                <p className="mt-6">&copy; 2024 AgrioPredict. All Rights Reserved.</p>
+                <p className="mt-6">&copy; 2024 AgroAI. All Rights Reserved.</p>
             </div>
         </footer>
     );

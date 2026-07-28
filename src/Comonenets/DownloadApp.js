@@ -4,7 +4,7 @@ const DownloadApp = () => {
     return (
         <section id="download-app" className="bg-gray-100 py-20">
             <div className="container mx-auto text-center">
-                <h2 className="text-3xl font-bold text-gray-800 mb-10">Download AgriPredict</h2>
+                <h2 className="text-3xl font-bold text-gray-800 mb-10">Download AgroAI</h2>
 
                 <div className="flex flex-col items-center md:flex-row justify-center md:space-x-20">
                     {/* Phone Mockup */}
